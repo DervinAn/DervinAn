@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBoeWg5Ym5ldzYzamIzM2pwMDNsaGFnbjd2bHByOGQydTlraWk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BsnvpKXRcm4HoZBbaJ/giphy.gif" align="center" style="width: 100%" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBoeWg5Ym5ldzYzamIzM2pwMDNsaGFnbjd2bHByOGQydTlraWk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BsnvpKXRcm4HoZBbaJ/giphy.gif" align="center" style="width: 100%; height: auto;" />
 </div>
+
 
 ### <div align="center">I'm Anas 🖐️</div>
 
