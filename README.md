@@ -32,6 +32,12 @@
   </a>
 </div>
 
+<div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x0dHQ4YndzanBuNjI3aDloODhsd3d0MWRmMTV0bHQxa2dtNjk5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A1kfWSbt6HeEiPRkH1/giphy.gif
+" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
 <br/>
 
 ## Github Stats
